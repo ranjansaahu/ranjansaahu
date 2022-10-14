@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ranjan Kumar Sahu</h1>
+<h1 align="center">Hello there!, I'm Ranjan Kumar Sahu</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🧑‍💼 I’m currently working at [CGI](https://www.cgi.com/en)
+- 💼 I’m currently working at [CGI](https://www.cgi.com/en)
 
 - 📧 Reach me **nburanjan@gmail.com**
 
